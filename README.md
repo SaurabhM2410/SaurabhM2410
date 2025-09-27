@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sourabh Mahawar</h1>
+<h1 align="center">Hi , I'm Sourabh ✨</h1>
 
 <h3 align="center">Generative AI | Prompt Engineering | AI Tools | AI/ML | Python | Data Science | Automation Enthusiast</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhm2410" alt="saurabhm2410" /></a> </p>
-
 
 # 🛠️ Projects  
 🔹 [EcoPulse](https://github.com/Sourabh24EGJCY/ecopulse000) – AI Powered Carbon Footprint Tracker
@@ -39,11 +38,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.saurabh.24/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff9800?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://preview--sourabhwork.lovable.app/)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhmahawar10@gmail.com)  
-
-- 👨‍💻 All of my projects are available at [https://preview--sourabhwork.lovable.app/](https://preview--sourabhwork.lovable.app/)
-
-- 📫 How to reach me **saurabhmahawar10@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NVVtmd0fbUJOlcqpBaVcjmjEPNh00LZB/view?usp=drive_link](https://drive.google.com/file/d/1NVVtmd0fbUJOlcqpBaVcjmjEPNh00LZB/view?usp=drive_link)
 
 ✨ *Code. Learn. Innovate. Repeat.*  
