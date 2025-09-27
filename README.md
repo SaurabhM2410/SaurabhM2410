@@ -1,16 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sourabh Mahawar</h1>
+
 <h3 align="center">Generative AI | Prompt Engineering | AI Tools | AI/ML | Python | Data Science | Automation Enthusiast</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhm2410" alt="saurabhm2410" /></a> </p>
 
 
 # 🛠️ Projects  
 🔹 [EcoPulse](https://github.com/Sourabh24EGJCY/ecopulse000) – AI Powered Carbon Footprint Tracker
+
 🔹 [ResuMate](https://github.com/Sourabh24EGJCY/resume-builder000) - AI Powered Resume Builder
+
 🔹 [RepoChatFlow](https://github.com/Sourabh24EGJCY/aichatbot000) - AI Chatbot (Mini Project)
+
 🔹 [SecurePass](https://github.com/Sourabh24EGJCY/password-generator000) - Random Password Generator (CLI Project)
+
 🔹 [RepoInsightR](https://github.com/Sourabh24EGJCY/data-insights-dashboard000) - R Powered Data Insights Dashboard
+
 🔹[Smart Campus](https://github.com/Sourabh24EGJCY/data-insights-dashboard000) - All Campus Management System
+
 🔹[MindMate](https://github.com/Sourabh24EGJCY/data-insights-dashboard000) - AI-Powered Mental Wellbeing Companion
 
 # 🎯 Goals  
