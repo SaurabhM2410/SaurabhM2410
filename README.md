@@ -1,20 +1,20 @@
 <h1 align="center">Hi , I'm Sourabh ✨</h1>
 
 <h3 align="center">Generative AI | Prompt Engineering | AI Tools | AI/ML | Python | Data Science | Automation Enthusiast</h3>
-<br>
-<br>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW10M3I0MmM1Mzk5N3hrd3doeHA1c2J5bjNpazdhZXZwbTZreWN0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif" width="250px" align="right" alt="">
 
 # 🎯 Goals  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW10M3I0MmM1Mzk5N3hrd3doeHA1c2J5bjNpazdhZXZwbTZreWN0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif" width="250px" align="right" alt="">
+
 - 🌱 Currently sharpening skills in **Generative AI & AI Automation**
 
 - 🧩 Building real-world projects in **Data Science & AI Agents**  
 
 - 🌍 Long-term: Contribute to **AI-driven innovations** that solve global challenges 
-#
-#
-# 🛠️ Projects  
+
+
+# 🛠️ Projects
+  
 🔹 [EcoPulse](https://github.com/Sourabh24EGJCY/ecopulse000) – AI Powered Carbon Footprint Tracker
 
 🔹 [ResuMate](https://github.com/Sourabh24EGJCY/resume-builder000) - AI Powered Resume Builder
