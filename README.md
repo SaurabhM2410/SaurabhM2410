@@ -39,4 +39,4 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff9800?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://preview--sourabhwork.lovable.app/)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhmahawar10@gmail.com)  
 
-✨ *Code. Learn. Innovate. Repeat.*  
+✨ *Code. Learn. Innovate. Repeat.*
