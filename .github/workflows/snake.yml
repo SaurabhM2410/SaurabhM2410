@@ -1,33 +1,25 @@
-name: Generate Snake Game
+name: Update Snake Game
 
 on:
   schedule:
-    # Runs every 6 hours to update the animation
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        
-      - name: Generate Snake Game
+      - uses: actions/checkout@v3
+      
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
+        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: Sourabh24EGJCY
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
           
-      - name: Deploy to Output Branch
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
