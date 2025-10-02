@@ -40,4 +40,12 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff9800?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://preview--sourabhwork.lovable.app/)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhmahawar10@gmail.com)  
 
+
+<!-- For dark mode users -->
+<div align="center">
+
+![Pac-Man Dark](https://raw.githubusercontent.com/SaurabhM2410/SaurabhM2410/output/pacman-dark.svg)
+
+</div>
+
 ✨ *Code. Learn. Innovate. Repeat.*
