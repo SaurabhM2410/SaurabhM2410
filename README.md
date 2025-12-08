@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Sourabh ✨</h1>
 
-<h3 align="center">Generative AI | Prompt Engineering | AI Tools | AI/ML | Python | Data Science | Automation Enthusiast</h3>
-
+<h3 align="center">AI/ML Engineering | Generative AI • Prompt Engineering • AI Tools | Python</h3>
 
 ## 🎯 Goals  
 
